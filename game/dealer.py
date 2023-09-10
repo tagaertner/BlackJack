@@ -1,0 +1,1 @@
+''' functionaliy of the dealer'''
